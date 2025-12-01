@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+CF9Dev.iml
+**/*.log
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
