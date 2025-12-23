@@ -48,6 +48,6 @@ public class Account {
 
     @Override
     public int hashCode() {
-        return Objects.hash(getIban();
+        return Objects.hash(getIban());
     }
 }
